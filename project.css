@@ -1,0 +1,44 @@
+
+body{
+    text-align: center;
+    display: grid;
+    background-color: rgb(190, 215, 215);
+}
+/* #fd{ */
+    /* height: 200px; */
+    /* width: 400px; */
+    /* background-color: rgb(180, 226, 93); */
+    /* text-align: center; */
+/* } */
+
+
+#sr{
+    display: flex;
+    flex-direction: row;
+    background-color: aqua;
+    grid-template-columns: repeat(3 1fr);
+    width: 200px;
+text-align: center;
+    height: 40px;
+}
+
+/* #food{ */
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* background-color: aqua; */
+    /* grid-template-columns: repeat(3 1fr); */
+    /* width: 200px; */
+
+    /* height: 40px; */
+  /* position: relative; */
+/* } */
+
+
+input [type="text"] {
+align-items: center;
+}
+
+
+.fod{
+    background-color: aqua;
+}
